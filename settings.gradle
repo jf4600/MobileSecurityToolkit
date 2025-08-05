@@ -1,0 +1,2 @@
+rootProject.name = 'MobileSecurityToolkit'
+include ':app'
