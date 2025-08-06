@@ -1,1 +1,1 @@
-![App Demo](proj_demo.gif)
+![App Demo](demo.gif)
